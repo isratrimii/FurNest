@@ -49,4 +49,4 @@ Follow these steps to download, set up, and run the project locally using XAMPP 
     * Open your web browser.
     * Navigate to the project URL. If your folder name is `furnest`, the URL would be: `http://localhost/furnest/` (or your project's entry file).
 
-You can now start browsing and using the **Furnest** application!
+You can now start browsing and using the **Furnest** website!
